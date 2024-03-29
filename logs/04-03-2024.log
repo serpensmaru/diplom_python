@@ -1,0 +1,162 @@
+2024-03-04 13:09:25,266 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-03-04 13:12:06,834 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-03-04 13:13:33,179 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-03-04 13:13:40,146 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-03-04 13:35:06,699 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-03-04 13:35:07,947 WARNING django.request Not Found: /
+2024-03-04 13:35:07,948 WARNING django.server "GET / HTTP/1.1" 404 2928
+2024-03-04 13:35:08,043 WARNING django.request Not Found: /favicon.ico
+2024-03-04 13:35:08,043 WARNING django.server "GET /favicon.ico HTTP/1.1" 404 2979
+2024-03-04 13:35:32,268 INFO django.server "GET /admin HTTP/1.1" 301 0
+2024-03-04 13:35:32,280 INFO django.server "GET /admin/ HTTP/1.1" 302 0
+2024-03-04 13:35:32,304 INFO django.server "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+2024-03-04 13:35:32,387 INFO django.server "GET /static/admin/css/base.css HTTP/1.1" 200 21544
+2024-03-04 13:35:32,390 INFO django.server "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+2024-03-04 13:35:32,433 INFO django.server "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2682
+2024-03-04 13:35:32,435 INFO django.server "GET /static/admin/css/login.css HTTP/1.1" 200 958
+2024-03-04 13:35:32,438 INFO django.server "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+2024-03-04 13:35:32,440 INFO django.server "GET /static/admin/css/responsive.css HTTP/1.1" 200 17905
+2024-03-04 13:35:32,440 INFO django.server "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+2024-03-04 13:35:39,185 INFO django.server "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4319
+2024-03-04 13:35:46,781 INFO django.server "GET /register HTTP/1.1" 301 0
+2024-03-04 13:35:46,794 WARNING django.request Method Not Allowed: /register/
+2024-03-04 13:35:46,795 WARNING django.server "GET /register/ HTTP/1.1" 405 5599
+2024-03-04 13:35:46,818 INFO django.server "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+2024-03-04 13:35:46,819 INFO django.server "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+2024-03-04 13:35:46,820 INFO django.server "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+2024-03-04 13:35:46,820 INFO django.server "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+2024-03-04 13:35:46,824 INFO django.server "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+2024-03-04 13:35:46,824 INFO django.server "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+2024-03-04 13:35:46,825 INFO django.server "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+2024-03-04 13:35:46,825 INFO django.server "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+2024-03-04 13:35:46,825 INFO django.server "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+2024-03-04 13:35:46,826 INFO django.server "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+2024-03-04 13:35:46,838 INFO django.server "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+2024-03-04 13:36:05,525 WARNING django.request Unauthorized: /logout/
+2024-03-04 13:36:05,526 WARNING django.server "GET /logout/ HTTP/1.1" 401 5046
+2024-03-04 13:36:05,552 INFO django.server "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+2024-03-04 13:36:05,553 INFO django.server "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+2024-03-04 13:36:05,554 INFO django.server "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+2024-03-04 13:36:05,554 INFO django.server "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 304 0
+2024-03-04 13:36:05,554 INFO django.server "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+2024-03-04 13:36:05,555 INFO django.server "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+2024-03-04 13:36:05,557 INFO django.server "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+2024-03-04 13:36:05,558 INFO django.server "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+2024-03-04 13:36:05,558 INFO django.server "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+2024-03-04 13:36:05,559 INFO django.server "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+2024-03-04 13:36:38,468 WARNING django.request Unauthorized: /api/users/
+2024-03-04 13:36:38,468 WARNING django.server "GET /api/users/ HTTP/1.1" 401 5158
+2024-03-04 13:36:38,502 INFO django.server "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+2024-03-04 13:36:38,504 INFO django.server "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+2024-03-04 13:36:38,509 INFO django.server "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+2024-03-04 13:36:38,510 INFO django.server "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 304 0
+2024-03-04 13:36:38,510 INFO django.server "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+2024-03-04 13:36:38,510 INFO django.server "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+2024-03-04 13:36:38,510 INFO django.server "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+2024-03-04 13:36:38,511 INFO django.server "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+2024-03-04 13:36:38,512 INFO django.server "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+2024-03-04 13:36:38,512 INFO django.server "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+2024-03-04 13:36:49,203 WARNING django.request Unauthorized: /api/users/
+2024-03-04 13:36:49,204 WARNING django.server "GET /api/users/ HTTP/1.1" 401 5158
+2024-03-04 13:40:27,148 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-03-04 13:40:33,330 INFO django.server "GET /admin/ HTTP/1.1" 302 0
+2024-03-04 13:40:33,354 INFO django.server "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+2024-03-04 13:40:33,374 INFO django.server "GET /static/admin/css/base.css HTTP/1.1" 304 0
+2024-03-04 13:40:33,377 INFO django.server "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+2024-03-04 13:40:33,378 INFO django.server "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+2024-03-04 13:40:33,378 INFO django.server "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+2024-03-04 13:40:33,378 INFO django.server "GET /static/admin/css/login.css HTTP/1.1" 304 0
+2024-03-04 13:40:33,380 INFO django.server "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+2024-03-04 13:40:33,381 INFO django.server "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+2024-03-04 13:40:39,621 INFO django.server "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+2024-03-04 13:40:39,667 INFO django.server "GET /admin/ HTTP/1.1" 200 6427
+2024-03-04 13:40:39,716 INFO django.server "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+2024-03-04 13:40:39,721 INFO django.server "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+2024-03-04 13:40:39,722 INFO django.server "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+2024-03-04 13:40:49,182 INFO django.server "GET /admin/accounts/user/add/ HTTP/1.1" 200 14744
+2024-03-04 13:40:49,202 INFO django.server "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+2024-03-04 13:40:49,202 INFO django.server "GET /static/admin/css/forms.css HTTP/1.1" 200 9048
+2024-03-04 13:40:49,202 INFO django.server "GET /static/admin/js/inlines.js HTTP/1.1" 200 15526
+2024-03-04 13:40:49,203 INFO django.server "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+2024-03-04 13:40:49,210 INFO django.server "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9042
+2024-03-04 13:40:49,210 INFO django.server "GET /static/admin/js/actions.js HTTP/1.1" 200 8067
+2024-03-04 13:40:49,211 INFO django.server "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+2024-03-04 13:40:49,213 INFO django.server "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+2024-03-04 13:40:49,214 INFO django.server "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+2024-03-04 13:40:49,215 INFO django.server "GET /static/admin/css/widgets.css HTTP/1.1" 200 11800
+2024-03-04 13:40:49,217 INFO django.server "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+2024-03-04 13:40:49,218 INFO django.server "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+2024-03-04 13:40:49,223 INFO django.server "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+2024-03-04 13:40:49,241 INFO django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2024-03-04 13:41:15,100 INFO django.server "POST /admin/accounts/user/add/ HTTP/1.1" 200 15043
+2024-03-04 13:41:15,118 INFO django.server "GET /static/admin/css/base.css HTTP/1.1" 304 0
+2024-03-04 13:41:15,124 INFO django.server "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+2024-03-04 13:41:15,124 INFO django.server "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+2024-03-04 13:41:15,124 INFO django.server "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+2024-03-04 13:41:15,154 INFO django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2024-03-04 13:41:15,164 INFO django.server "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+2024-03-04 13:41:15,164 INFO django.server "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+2024-03-04 13:41:35,125 INFO django.server "POST /admin/accounts/user/add/ HTTP/1.1" 200 14968
+2024-03-04 13:41:35,143 INFO django.server "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+2024-03-04 13:41:35,147 INFO django.server "GET /static/admin/js/core.js HTTP/1.1" 304 0
+2024-03-04 13:41:35,148 INFO django.server "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+2024-03-04 13:41:35,148 INFO django.server "GET /static/admin/js/inlines.js HTTP/1.1" 304 0
+2024-03-04 13:41:35,148 INFO django.server "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+2024-03-04 13:41:35,148 INFO django.server "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+2024-03-04 13:41:35,150 INFO django.server "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+2024-03-04 13:41:35,151 INFO django.server "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+2024-03-04 13:41:35,152 INFO django.server "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+2024-03-04 13:41:35,152 INFO django.server "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+2024-03-04 13:41:35,152 INFO django.server "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+2024-03-04 13:41:35,165 INFO django.server "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+2024-03-04 13:41:35,168 INFO django.server "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+2024-03-04 13:41:35,179 INFO django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2024-03-04 13:41:53,738 INFO django.server "POST /admin/accounts/user/add/ HTTP/1.1" 302 0
+2024-03-04 13:41:53,788 INFO django.server "GET /admin/accounts/user/2/change/ HTTP/1.1" 200 14273
+2024-03-04 13:41:53,846 INFO django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2024-03-04 13:41:53,858 INFO django.server "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+2024-03-04 13:42:16,371 WARNING django.request Method Not Allowed: /register/
+2024-03-04 13:42:16,371 WARNING django.server "GET /register/ HTTP/1.1" 405 5599
+2024-03-04 13:42:16,394 INFO django.server "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+2024-03-04 13:42:16,398 INFO django.server "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 304 0
+2024-03-04 13:42:16,398 INFO django.server "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+2024-03-04 13:42:16,399 INFO django.server "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+2024-03-04 13:42:16,399 INFO django.server "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+2024-03-04 13:42:16,399 INFO django.server "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+2024-03-04 13:42:16,400 INFO django.server "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+2024-03-04 13:42:16,402 INFO django.server "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+2024-03-04 13:42:16,403 INFO django.server "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+2024-03-04 13:42:16,403 INFO django.server "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+2024-03-04 13:42:16,405 INFO django.server "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+2024-03-04 13:42:41,332 INFO django.server "OPTIONS /register/ HTTP/1.1" 200 5870
+2024-03-04 13:42:58,582 INFO django.server "OPTIONS /register/ HTTP/1.1" 200 5870
+2024-03-04 13:43:01,108 WARNING django.request Method Not Allowed: /register/
+2024-03-04 13:43:01,108 WARNING django.server "GET /register/ HTTP/1.1" 405 5599
+2024-03-04 13:43:03,732 INFO django.server "OPTIONS /register/ HTTP/1.1" 200 5870
+2024-03-04 13:43:16,523 INFO django.server "GET /admin/ HTTP/1.1" 200 6800
+2024-03-04 13:43:16,636 INFO django.server "GET /static/admin/css/base.css HTTP/1.1" 304 0
+2024-03-04 13:43:16,643 INFO django.server "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+2024-03-04 13:43:16,643 INFO django.server "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+2024-03-04 13:43:16,643 INFO django.server "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+2024-03-04 13:43:16,643 INFO django.server "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+2024-03-04 13:43:16,644 INFO django.server "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+2024-03-04 13:43:16,644 INFO django.server "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+2024-03-04 13:43:16,650 INFO django.server "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+2024-03-04 13:43:16,650 INFO django.server "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+2024-03-04 13:43:22,551 INFO django.server "GET /admin/accounts/user/2/change/ HTTP/1.1" 200 14050
+2024-03-04 13:43:22,566 INFO django.server "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+2024-03-04 13:43:22,572 INFO django.server "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+2024-03-04 13:43:22,572 INFO django.server "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+2024-03-04 13:43:22,572 INFO django.server "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+2024-03-04 13:43:22,572 INFO django.server "GET /static/admin/js/core.js HTTP/1.1" 304 0
+2024-03-04 13:43:22,572 INFO django.server "GET /static/admin/js/inlines.js HTTP/1.1" 304 0
+2024-03-04 13:43:22,576 INFO django.server "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+2024-03-04 13:43:22,577 INFO django.server "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+2024-03-04 13:43:22,577 INFO django.server "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+2024-03-04 13:43:22,577 INFO django.server "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+2024-03-04 13:43:22,578 INFO django.server "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+2024-03-04 13:43:22,579 INFO django.server "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+2024-03-04 13:43:22,585 INFO django.server "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+2024-03-04 13:43:22,604 INFO django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2024-03-04 13:45:38,316 WARNING django.request Not Found: /favicon.ico
+2024-03-04 13:45:38,317 WARNING django.server "GET /favicon.ico HTTP/1.1" 404 2979

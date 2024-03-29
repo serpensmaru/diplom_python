@@ -1,0 +1,103 @@
+2023-12-14 01:06:59,896 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-12-14 01:07:46,943 INFO django.server "GET /api/files/ HTTP/1.1" 200 9505
+2023-12-14 01:07:57,908 INFO django.utils.autoreload /Users/kuznetsovd/Desktop/git/1233/server/settings.py changed, reloading.
+2023-12-14 01:07:58,608 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-12-14 01:10:41,135 INFO django.utils.autoreload /Users/kuznetsovd/Desktop/git/1233/server/settings.py changed, reloading.
+2023-12-14 01:10:41,774 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-12-14 01:10:44,873 INFO django.server "GET /api/files/ HTTP/1.1" 200 9505
+2023-12-14 01:11:03,806 INFO django.utils.autoreload /Users/kuznetsovd/Desktop/git/1233/server/settings.py changed, reloading.
+2023-12-14 01:11:04,427 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-12-14 01:11:21,047 INFO django.server "GET /api/files/ HTTP/1.1" 200 9505
+2023-12-14 01:11:36,693 INFO django.utils.autoreload /Users/kuznetsovd/Desktop/git/1233/server/settings.py changed, reloading.
+2023-12-14 01:11:37,258 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-12-14 01:12:16,576 INFO django.utils.autoreload /Users/kuznetsovd/Desktop/git/1233/server/settings.py changed, reloading.
+2023-12-14 01:12:17,296 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-12-14 01:12:19,658 INFO django.utils.autoreload /Users/kuznetsovd/Desktop/git/1233/server/settings.py changed, reloading.
+2023-12-14 01:12:20,231 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-12-14 01:12:23,162 INFO django.server "GET /api/files/ HTTP/1.1" 200 9505
+2023-12-14 01:12:35,636 INFO django.server "POST /api/files/ HTTP/1.1" 201 10059
+2023-12-14 01:12:44,257 INFO django.utils.autoreload /Users/kuznetsovd/Desktop/git/1233/server/settings.py changed, reloading.
+2023-12-14 01:12:44,954 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-12-14 01:12:48,346 INFO django.server "GET /api/files/ HTTP/1.1" 200 10042
+2023-12-14 01:12:56,099 INFO django.server "GET /api/files/207 HTTP/1.1" 301 0
+2023-12-14 01:12:56,132 INFO django.server "GET /api/files/207/ HTTP/1.1" 200 15596
+2023-12-14 01:12:58,638 INFO django.server "DELETE /api/files/207/ HTTP/1.1" 200 15174
+2023-12-14 01:12:58,684 WARNING django.request Not Found: /api/files/207/
+2023-12-14 01:12:58,684 WARNING django.server "GET /api/files/207/ HTTP/1.1" 404 15103
+2023-12-14 01:13:00,007 INFO django.server "GET /api/files/ HTTP/1.1" 200 9505
+2023-12-14 01:14:56,878 INFO django.utils.autoreload /Users/kuznetsovd/Desktop/git/1233/accounts/models.py changed, reloading.
+2023-12-14 01:25:13,296 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-12-14 01:25:16,472 INFO django.server "GET /api/files/ HTTP/1.1" 200 9505
+2023-12-14 01:25:19,800 INFO django.server "GET /api/users/ HTTP/1.1" 200 11529
+2023-12-14 01:25:38,361 INFO django.utils.autoreload /Users/kuznetsovd/Desktop/git/1233/accounts/models.py changed, reloading.
+2023-12-14 01:25:39,077 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-12-14 01:25:45,366 INFO django.utils.autoreload /Users/kuznetsovd/Desktop/git/1233/accounts/models.py changed, reloading.
+2023-12-14 01:25:45,926 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-12-14 01:25:49,743 INFO django.server "GET /admin/storage/file/ HTTP/1.1" 200 7096
+2023-12-14 01:25:49,828 INFO django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2023-12-14 01:25:51,866 INFO django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14212
+2023-12-14 01:25:51,924 INFO django.server "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+2023-12-14 01:25:51,924 INFO django.server "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+2023-12-14 01:25:51,954 INFO django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2023-12-14 01:25:51,972 INFO django.server "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+2023-12-14 01:25:51,983 INFO django.server "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+2023-12-14 01:25:51,984 INFO django.server "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+2023-12-14 01:26:03,418 INFO django.server "POST /admin/accounts/user/ HTTP/1.1" 200 7713
+2023-12-14 01:26:03,488 INFO django.server "GET /static/admin/js/cancel.js HTTP/1.1" 304 0
+2023-12-14 01:26:04,626 INFO django.server "POST /admin/accounts/user/ HTTP/1.1" 302 0
+2023-12-14 01:26:04,659 INFO django.server "GET /admin/accounts/user/ HTTP/1.1" 200 11655
+2023-12-14 01:26:04,718 INFO django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2023-12-14 01:26:05,786 INFO django.server "GET /admin/accounts/user/ HTTP/1.1" 200 11520
+2023-12-14 01:26:05,855 INFO django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2023-12-14 02:18:36,351 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-12-14 02:18:42,342 INFO django.server "GET /api/users/ HTTP/1.1" 200 10183
+2023-12-14 02:18:53,251 INFO django.utils.autoreload /Users/kuznetsovd/Desktop/git/1233/server/settings.py changed, reloading.
+2023-12-14 02:18:53,828 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-12-14 02:19:35,360 INFO django.utils.autoreload /Users/kuznetsovd/Desktop/git/1233/server/settings.py changed, reloading.
+2023-12-14 02:19:35,951 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-12-14 02:19:39,532 INFO django.server "GET /api/files/ HTTP/1.1" 200 9637
+2023-12-14 02:19:45,984 INFO django.server "POST /api/files/ HTTP/1.1" 201 9660
+2023-12-14 02:20:13,478 INFO django.server "GET /api/files/ HTTP/1.1" 200 10176
+2023-12-14 02:20:26,547 INFO django.server "PATCH /api/files/208/ HTTP/1.1" 200 74
+2023-12-14 02:20:54,178 INFO django.server "DELETE /api/files/208/ HTTP/1.1" 204 71
+2023-12-14 02:22:29,156 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-12-14 02:22:37,588 INFO django.utils.autoreload /Users/kuznetsovd/Desktop/git/1233/server/urls.py changed, reloading.
+2023-12-14 02:22:38,161 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-12-14 02:22:56,198 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-12-14 02:25:01,883 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-12-14 02:25:07,246 INFO django.utils.autoreload /Users/kuznetsovd/Desktop/git/1233/server/urls.py changed, reloading.
+2023-12-14 02:25:07,932 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-12-14 02:25:19,500 INFO django.utils.autoreload /Users/kuznetsovd/Desktop/git/1233/server/urls.py changed, reloading.
+2023-12-14 02:25:20,174 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-12-14 02:25:22,504 INFO django.utils.autoreload /Users/kuznetsovd/Desktop/git/1233/server/urls.py changed, reloading.
+2023-12-14 02:25:23,091 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-12-14 02:25:39,780 INFO django.utils.autoreload /Users/kuznetsovd/Desktop/git/1233/server/urls.py changed, reloading.
+2023-12-14 02:25:40,473 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-12-14 10:50:41,821 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-12-14 10:50:44,864 INFO django.server "GET /admin/accounts/user/ HTTP/1.1" 200 11520
+2023-12-14 10:50:44,959 INFO django.server "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+2023-12-14 10:50:44,961 INFO django.server "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+2023-12-14 10:50:44,964 INFO django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2023-12-14 10:50:47,209 INFO django.server "GET /admin/storage/file/ HTTP/1.1" 200 9327
+2023-12-14 10:50:47,282 INFO django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2023-12-14 10:50:51,910 INFO django.server "POST /admin/storage/file/ HTTP/1.1" 200 7164
+2023-12-14 10:50:53,208 INFO django.server "POST /admin/storage/file/ HTTP/1.1" 302 0
+2023-12-14 10:50:53,236 INFO django.server "GET /admin/storage/file/ HTTP/1.1" 200 7230
+2023-12-14 10:50:53,307 INFO django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2023-12-14 10:50:54,404 INFO django.server "GET /admin/storage/file/ HTTP/1.1" 200 7096
+2023-12-14 10:50:54,463 INFO django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2023-12-14 10:50:55,819 INFO django.server "GET /api/files/ HTTP/1.1" 200 9104
+2023-12-14 10:51:36,393 INFO django.server "POST /api/files/ HTTP/1.1" 201 9650
+2023-12-14 10:51:39,578 INFO django.server "GET /api/files/ HTTP/1.1" 200 9637
+2023-12-14 10:51:52,424 INFO django.utils.autoreload Watching for file changes with StatReloader
+2023-12-14 10:51:55,681 INFO django.server "GET /admin/storage/file/ HTTP/1.1" 200 9324
+2023-12-14 10:51:55,754 INFO django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2023-12-14 10:51:59,657 INFO django.server "POST /admin/storage/file/ HTTP/1.1" 200 7162
+2023-12-14 10:52:00,850 INFO django.server "POST /admin/storage/file/ HTTP/1.1" 302 0
+2023-12-14 10:52:00,916 INFO django.server "GET /admin/storage/file/ HTTP/1.1" 200 7230
+2023-12-14 10:52:00,980 INFO django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2023-12-14 10:52:02,043 INFO django.server "GET /admin/storage/file/ HTTP/1.1" 200 7096
+2023-12-14 10:52:02,105 INFO django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2023-12-14 10:52:02,919 INFO django.server "GET /api/files/ HTTP/1.1" 200 9104
+2023-12-14 10:52:19,286 INFO django.server "POST /api/files/ HTTP/1.1" 201 9662
+2023-12-14 10:52:21,618 INFO django.server "GET /api/files/ HTTP/1.1" 200 9644
